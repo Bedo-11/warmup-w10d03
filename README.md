@@ -2,7 +2,7 @@
 
 
 
-Create a `Student` Schema using mongoose and populate it with our Eternity students using the array below.
+Create a `Student` Schema using mongoose and populate it with our students using the array below.
 
 ### Our Class is Fragile
 
