@@ -8,11 +8,11 @@ Create a `Student` Schema using mongoose and populate it with our Eternity stude
 
 Each student should have an `Attending` value which has a default of `true`
 
-Update `Waleed` and `Turki`'s `Attending` value to `false`
+Update `Bandari` and `Hatim`'s `Attending` value to `false`
 
 ### Not so Eternal 
 
-Wait! `Mo` is no longer a student, remove him from our database.
+Wait! `Leena` is no longer a student, remove him from our database.
 
 
 >Don't forget to run `mongod`, `npm init -y` and `npm i mongoose` before starting.
@@ -22,7 +22,7 @@ Wait! `Mo` is no longer a student, remove him from our database.
 const Students = ["Abdullah Alshahrani", "Abdullah Binmahfouz", "Abdulrahman Alsulami",
 					 "Afnan Masrahi", "Ahmad Al Arif", "Amal Algregri", "Bandar Al-Huthali", 
 					 "Bandari Alotaibi", "Dalia Dammas", "Doaa Turkistani", "Fahad Alturkistani", 
-					 "Faisal Alsulaimani", "Fatmah Kalantan", "Hanin Nouh", "Hatim Alattas", "Ibrahim Zahran",
-					 "Khadijah Saber", "Leena Yaseen", "Mohammed AL-Amri", "Mohammed Almahdawi", 
+					 "Faisal Alsulaimani", "Leena Yaseen","Fatmah Kalantan", "Hanin Nouh", "Hatim Alattas", "Ibrahim Zahran",
+					 "Khadijah Saber", "Mohammed AL-Amri", "Mohammed Almahdawi", 
 					 "Mohammed Alghamdi", "Razan Sannan", "Safwan AlQulayti", "Sara Alraddadi", 
 					 "Sarah AlAhmadi", "Wardah Almalki" ]
