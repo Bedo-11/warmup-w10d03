@@ -1,16 +1,16 @@
 # warmup-w10d03
 
-### Eternity
+
 
 Create a `Student` Schema using mongoose and populate it with our Eternity students using the array below.
 
-### Eternity is Fragile
+### Our Class is Fragile
 
 Each student should have an `Attending` value which has a default of `true`
 
 Update `Bandari` and `Hatim`'s `Attending` value to `false`
 
-### Not so Eternal 
+### Not With us :(
 
 Wait! `Leena` is no longer a student, remove him from our database.
 
